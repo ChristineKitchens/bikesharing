@@ -3,7 +3,7 @@
 ## Overview
 As part of a mock business proposal for a Des Moines-based bikesharing program, Citi Bike data from New York City was analyzed to determine trends in use and user demographics. August 2019 data was retrieved from the [Citi Bike website](https://ride.citibikenyc.com/system-data) since August is a peak use period for bikeshare programs. Data was visualized using Tableau Public and is [available online for viewing](https://public.tableau.com/views/CitiBikeData-Challenge_16486908268670/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 ## Results
-Data findings are annoted on each (Tableau story slide)[https://public.tableau.com/views/CitiBikeData-Challenge_16486908268670/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link], but are summarized below:
+Data findings are annoted on each [Tableau story slide](https://public.tableau.com/views/CitiBikeData-Challenge_16486908268670/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link), but are summarized below:
   - Most trips by users are less than an hour and peak around 5 minutes.
   - Most users are male.
   - Peak use occurs Monday through Friday between 7-9 AM and 5-7 PM, which may be associated with a commuting workforce.
