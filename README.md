@@ -1,5 +1,4 @@
 # Citi Bike Data Analysis
-Visualize bikeshare data using Tableau Public
 
 ## Overview
 As part of a mock business proposal for a Des Moines-based bikesharing program, Citi Bike data from New York City was analyzed to determine trends in use and user demographics. August 2019 data was retrieved from the [Citi Bike website](https://ride.citibikenyc.com/system-data) since August is a peak use period for bikeshare programs. Data was visualized using Tableau Public and is [available online for viewing](https://public.tableau.com/views/CitiBikeData-Challenge_16486908268670/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
